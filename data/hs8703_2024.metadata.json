@@ -1,0 +1,8 @@
+{
+  "hs_code": "8703",
+  "year": 2024,
+  "min_usd": 0.0,
+  "threshold_rule": "annual value > min_usd",
+  "weight_unit": "current USD",
+  "flow_direction": "reporting exporter to destination"
+}
